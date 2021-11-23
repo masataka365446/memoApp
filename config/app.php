@@ -13,6 +13,7 @@ return [
     |
     */
 
+    //envファイルから値を取ってくる
     'name' => env('APP_NAME', 'Laravel'),
 
     /*
